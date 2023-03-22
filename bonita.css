@@ -13,7 +13,11 @@ footer{
     align-items:baseline;
     margin-top: 500px;
 }
-
+.banana{
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
   
 
 button{
@@ -36,7 +40,7 @@ h1{
 }
 h1:nth-child(1){
     
-    animation-delay: -10;
+    animation-delay: -20;
 }
 h1:nth-child(2){
     
